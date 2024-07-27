@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149241410698",
+    "project_id": "doan-dfc20",
+    "storage_bucket": "doan-dfc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149241410698:android:f20f69c95ff065fd7fe973",
+        "android_client_info": {
+          "package_name": "longkhoa.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr-r2w2qkJlupu3hIKN2wMIBHyPpAAtCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "80621640241",
+    "project_id": "social-app-dfd3e",
+    "storage_bucket": "social-app-dfd3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80621640241:android:23b8a569e4f2e135499310",
+        "android_client_info": {
+          "package_name": "mrblab.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80621640241-fbd0hu4iddcm6cc99s6ds81mac5q8t8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAcIc9nk9jZip4wNaniuO4G2X-NZJMr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80621640241-fbd0hu4iddcm6cc99s6ds81mac5q8t8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80621640241-f2kijv5e98h4kvfkhi33ru8k4o78k45v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.svapps.grilemedicina"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
